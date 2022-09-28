@@ -2,7 +2,7 @@
 
 # Hey there 👋, I'm Ahmed Mahrous
 
-I'm Ahmed Mahrous from Egypt 🇪🇬, I'm a ROS Developer with a bachelor's degree in Mechatronics Engineering. Skilled in Python, C++, modelling, navigation, and control of autonomous vehicles.ou can find my Upwork profile at [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01de0a65262ec63817)
+I'm Ahmed Mahrous from Egypt 🇪🇬, I'm a ROS Developer with a bachelor's degree in Mechatronics Engineering. Skilled in Python, C++, modelling, navigation, and control of autonomous vehicles. You can find my Upwork profile at [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01de0a65262ec63817)
 
 ## Skills and Tools
 - 🤖 Robot Operating System (ROS)
