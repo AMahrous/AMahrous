@@ -1,8 +1,8 @@
 
 
-# Hi there 👋, I'm Ahmed Mahrous
+# Hey there 👋, I'm Ahmed Mahrous
 
-I'm Ahmed Mahrous from Egypt, I'm a ROS Developer with a bachelor's degree in Mechatronics Engineering. Skilled in Python, C++, modelling, navigation, and control of autonomous vehicles.
+I'm Ahmed Mahrous from Egypt 🇪🇬, I'm a ROS Developer with a bachelor's degree in Mechatronics Engineering. Skilled in Python, C++, modelling, navigation, and control of autonomous vehicles.
 
 ## Skills and Experience
 - 🤖 Robot Operating System (ROS)
